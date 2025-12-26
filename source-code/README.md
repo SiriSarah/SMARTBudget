@@ -9,13 +9,10 @@ Enable experts to verify that:
 - Keys never leave the user's device.
 
 ## License
-Recommended: [Business Source License (BUSL)](https://mariadb.com/bsl11/) or a custom "Security Review License".
+[Business Source License (BUSL)](https://mariadb.com/bsl11/)
 
 ## Scope
 This repo ONLY contains code related to security, privacy, and encryption. It DOES NOT contain:
 - Application UI or UX.
 - Business logic or budgeting workflows.
 - Backend infrastructure or deployment scripts.
-
----
-*This is a preview of the proposed disclosure repository structure.*
